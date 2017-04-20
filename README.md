@@ -1,4 +1,7 @@
-# test coverage for  [pretty-error (v2.1.0)](https://github.com/AriaMinaei/pretty-error#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-pretty-error.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-pretty-error) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-pretty-error.svg)](https://travis-ci.org/npmtest/node-npmtest-pretty-error)
+# npmtest-pretty-error
+
+#### basic test coverage for  [pretty-error (v2.1.0)](https://github.com/AriaMinaei/pretty-error#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-pretty-error.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-pretty-error) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-pretty-error.svg)](https://travis-ci.org/npmtest/node-npmtest-pretty-error)
+
 #### See nodejs errors with less clutter
 
 [![NPM](https://nodei.co/npm/pretty-error.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/pretty-error)
